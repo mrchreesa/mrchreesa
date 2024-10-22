@@ -5,7 +5,7 @@
 
 - 🔭 I've completed Code Academy Full Web Development Course!
 - 🌱 I’m currently learning WEB 3.0
-- 🥅 2023 Goals: Contribute more to Open Source projects
+- 🥅 2025 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to produce music
 
 ### Connect with me:
