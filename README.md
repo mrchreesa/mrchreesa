@@ -3,10 +3,10 @@
 
 ## I'm a Web Developer
 
-- 🔭 I've completed Code Academy Full Web Development Course!
+- 🔭 I'm Computer Science student!
 - 🌱 I’m currently learning WEB 3.0
 - 🥅 2025 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to produce music
+- ⚡ Fun fact: I like to produce music
 
 ### Connect with me:
 
