@@ -4,7 +4,7 @@
 ## I'm a Web Developer
 
 - 🔭 I'm Computer Science student!
-- 🌱 I’m currently learning WEB 3.0
+- 🌱 I’m currently learning ML
 - 🥅 2025 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I like to produce music
 
